@@ -169,6 +169,3 @@ with a Normalizing Flow", [year]. Code: https://github.com/[user]/[repository]
 - Dockhorn, T., Ritchie, J. A., Yu, Y., & Murray, I. (2020). Density deconvolution with normalizing flows. arXiv:2006.09396.
 - James, G. M., Hastie, T. J., & Sugar, C. A. (2000). Principal component models for sparse functional data. *Biometrika*, 87(3), 587–602.
 
-## License
-
-[Choose a license, e.g. MIT]
